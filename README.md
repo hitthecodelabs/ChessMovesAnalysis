@@ -1,5 +1,5 @@
 
-# Chess Move Analysis
+# Chess Moves Analysis
 
 This project provides a Python-based solution to analyze the accuracy of moves in a chess game by comparing each move to the best move suggested by the Stockfish engine. The accuracy is evaluated as a percentage, where 100% represents perfect play.
 
